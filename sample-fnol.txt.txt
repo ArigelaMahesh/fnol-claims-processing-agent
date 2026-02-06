@@ -1,0 +1,19 @@
+Policy Number: POL12345
+Policyholder Name: Mahesh Arigela
+Effective Dates: 01-01-2025 to 01-01-2026
+
+Incident Date: 05-02-2026
+Incident Time: 10:30 AM
+Location: Hyderabad
+Description: Minor accident, no fraud
+
+Claimant: Mahesh Arigela
+Contact Details: 9999999999
+
+Asset Type: Vehicle
+Asset ID: TS09AB1234
+Estimated Damage: 20000
+
+Claim Type: Vehicle
+Attachments: Photos
+Initial Estimate: 20000
